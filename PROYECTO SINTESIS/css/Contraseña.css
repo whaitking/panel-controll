@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#logo_ayu:hover {
+    border: solid;
+}
+
+a #logo_ayu {
+    color: black;
+}
+
+#logo_ayu {
+
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    height: 100px;
+    width: 200px;
+    padding: 5px 5px 5px 5px;
+    cursor: pointer;
+}
+
+
+
+
+.form-register {
+    width: 800px;
+    background: #555a5f;
+    padding: 30px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(255, 250, 250);
+    box-shadow: 10px 10px 30px #000;
+}
+
+
+
+.controls {
+    width: 780px;
+    background: #d5dce2;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #ffffff;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(46, 45, 45);
+}
+
+
+
+.form-register a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register .botons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    background: #b7becc;
+    border: none;
+    padding: 12px;
+    color: rgb(7, 7, 7);
+    margin: 16px 0;
+    font-size: 20px;
+}
+
+#footer {
+
+    margin-top: 340px;
+    padding-left: 550px;
+    background-color: #555a5f;
+    height: 150px;
+    border: solid;
+
+}
+
+#LOGO-INST {
+    width: 40px;
+    height: 40px;
+
+}
+
+#facebook {
+    width: 40px;
+    height: 40px;
+}
+
+#youtube {
+    width: 40px;
+    height: 40px;
+}
+
+#twitter {
+    width: 60px;
+    height: 40px;
+    ;
+}
+
+#h2f {
+    color: #ffffff;
+
+}

@@ -1,0 +1,151 @@
+body {
+    font-family: 'Courier New',
+        Courier,
+        monospace;
+    background-image: url(desarrolloo.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg {
+    background-image: linear-gradient(-60deg, #6c3 50%, #09f 50%);
+    bottom: 0;
+    left: -50%;
+    opacity: .8;
+    position: fixed;
+    right: -50%;
+    top: 0;
+    z-index: -1;
+}
+
+#logo_ayu:hover {
+    border: solid;
+}
+
+a #logo_ayu {
+    color: black;
+}
+
+#logo_ayu {
+    float: left;
+    position: absolute;
+    left: 2%;
+    top: 3%;
+    width: 105px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+
+
+
+.form-register {
+    width: 800px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-top: 200px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: black;
+    box-shadow: 10px 10px 30px #000;
+    border: #000 solid 2px;
+}
+
+
+
+.controls {
+    width: 780px;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 2px solid black;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.form-register a {
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register .botons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    border: 2px solid black;
+    border: none;
+    padding: 12px;
+    color: rgb(7, 7, 7);
+    margin: 16px 0;
+    font-size: 20px;
+}
+
+#h2f {
+    color: black;
+
+}
+
+#footer {
+    text-align: center;
+    height: 150px;
+    border: solid;
+    z-index: 1000;
+    margin-top: 70px;
+    box-shadow: 10px 10px 30px black;
+}
+
+#footer a {
+    color: black;
+
+}
+
+#footer a:hover {
+    color: red;
+}
+
+#LOGO-INST {
+    width: 40px;
+    height: 40px;
+
+}
+
+#googlemaps {
+    width: 40px;
+    height: 40px;
+
+}
+
+#GMAIL {
+    width: 37px;
+    height: 34px;
+}
+
+#facebook {
+    width: 40px;
+    height: 40px;
+}
+
+#youtube {
+    width: 40px;
+    height: 40px;
+}
+
+#twitter {
+    width: 60px;
+    height: 35px;
+}
+
+#h2f {
+    color: black;
+
+}

@@ -1,0 +1,24 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(165, 166, 167);
+}
+
+a #logo_ayu {
+    color: black;
+}
+
+#logo_ayu {
+
+    position: absolute;
+    top: 3%;
+    left: 86%;
+    height: 100px;
+    width: 200px;
+    padding: 5px 5px 5px 5px;
+    cursor: pointer;
+
+}
+
+#logo_ayu:hover {
+    border: solid;
+}
